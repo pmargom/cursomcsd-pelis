@@ -59,8 +59,6 @@
         buscaDatos(paginaActual + 1);
     });
 
-
-
     $('.fa-arrow-circle-left').click(function () {
         var paginaActual = parseInt($('#pagina-actual').html());
         if (paginaActual === 2) {
