@@ -7,9 +7,10 @@
 }
 
 .item-pelicula {
-    border: solid 0px green;
+    border: solid 1px #848484;
     float: left;
     margin-left: 8px;
+    margin-top: 3px;
     display: none;
 }
 
